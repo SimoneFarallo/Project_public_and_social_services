@@ -8,3 +8,8 @@ About notebooks:
 2. Extra_tools: Construction of tools external to the chatbot
 3. Langchain: Chatbot construction
 4. Interface: Final interface construction
+
+
+
+
+NB.Prescriptions were not uploaded to the repository due to limitations regarding privacy and GDPR
